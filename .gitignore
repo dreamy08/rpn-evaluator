@@ -1,0 +1,27 @@
+# Build artifacts
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.exp
+build/
+bin/
+lib/
+
+# VS/VSCode
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+.vscode/
+
+.vscode/*
+!.vscode/tasks.json
+!.vscode/settings.json
+
+# App I/O
+input.txt
+output.txt
