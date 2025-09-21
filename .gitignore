@@ -18,6 +18,10 @@ lib/
 *.VC.opendb
 .vscode/
 
+.vscode/*
+!.vscode/tasks.json
+!.vscode/settings.json
+
 # App I/O
 input.txt
 output.txt
